@@ -1,0 +1,3 @@
+[submodule "simple-submodule"]
+	path = simple-submodule
+	url = git@github.com:edeustace/simple-submodule.git
