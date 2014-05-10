@@ -1,1 +1,1 @@
-web: ./target/universal/stage/bin/blahblah -Dhttp.port=${PORT}
+web: ./target/universal/stage/bin/simple-play-app -Dhttp.port=${PORT}
